@@ -38,15 +38,27 @@
 
 # 💫 About Me
 
-🏢 Senior Full-Stack Developer & Software Architect with 10+ years of experience
-🌏 Based in lahore, punjab, Pakistan
-🔭 I enjoy solving challenging problems, optimizing application performance, and creating software that is secure, maintainable, and user-friendly.
-🌱 Always learning: Microservices, Cloud Architecture, AI integrations
-🔌 Open-source author: ezy E Invoice on WordPress.org
-💬 Ask me about: **Laravel**, **PHP**, **Vue.js**, **React**, **MySQL**, **Docker**, **AWS**
-📫 Reach me: compilerjit@gmail.com
-🔗 LinkedIn: qaiserkasuri
-📱 Whatsapp: +923014865779
+🏢 **Senior Full-Stack Software Engineer & Software Architect** with **10+ years** of experience in designing and developing scalable, secure, and high-performance enterprise applications.
+
+🌍 **Location:** Lahore, Punjab, Pakistan
+
+💼 **Specialized in:** Laravel, PHP, Vue.js, React, REST APIs, AI Automation, Travel Technology, Hotel Reservation Systems, CRM/ERP Solutions, and Payment Gateway Integrations.
+
+🚀 Passionate about solving complex business challenges, optimizing application performance, and building clean, maintainable, and user-friendly software.
+
+🌱 **Currently Learning:** Microservices, Cloud Architecture, AI Agents, Large Language Models (LLMs), and Advanced AI Automation.
+
+🔌 **Open Source Contributor:** Creator of **ezy E Invoice** on WordPress.org.
+
+💬 **Ask Me About:** **Laravel • PHP • Vue.js • React • MySQL • Docker • AWS • REST APIs • AI Integration**
+
+📫 **Email:** **compilerjit@gmail.com**
+
+🔗 **LinkedIn:** **linkedin.com/in/qaiserkasuri**
+
+📱 **WhatsApp:** **+92 301 4865779**
+
+🚀 **Available for:** Freelance Projects • Remote Opportunities • Consulting • Enterprise Software Development
 ---
 
 # 🚀 What I Do
