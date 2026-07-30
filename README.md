@@ -38,16 +38,15 @@
 
 # 💫 About Me
 
-
-🚀 **Full Stack Software Engineer** | ❤️ **Laravel Expert** | 🤖 **AI Developer** | ✈️ **Travel Technology Specialist** ❤️ **Mobile app Specialist**
-
-Hello! I'm **Qaiser Abbass**, a software engineer dedicated to building modern, scalable, and enterprise-grade digital products.
-
-My primary technology stack includes **Laravel**, **PHP**, **Vue.js**, **React**, **MySQL**, **Docker**, **AWS**, and modern RESTful API development.
-
-I enjoy solving challenging problems, optimizing application performance, and creating software that is secure, maintainable, and user-friendly.
-
-> **"Great software is built with clean architecture, thoughtful design, and a passion for continuous learning."**
+🏢 Senior Full-Stack Developer & Software Architect with 10+ years of experience
+🌏 Based in lahore, punjab, Pakistan
+🔭 I enjoy solving challenging problems, optimizing application performance, and creating software that is secure, maintainable, and user-friendly.
+🌱 Always learning: Microservices, Cloud Architecture, AI integrations
+🔌 Open-source author: ezy E Invoice on WordPress.org
+💬 Ask me about: **Laravel**, **PHP**, **Vue.js**, **React**, **MySQL**, **Docker**, **AWS**
+📫 Reach me: compilerjit@gmail.com
+🔗 LinkedIn: qaiserkasuri
+📱 Whatsapp: +923014865779
 ---
 
 # 🚀 What I Do
