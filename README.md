@@ -165,27 +165,23 @@ I enjoy solving challenging problems, optimizing application performance, and cr
 <p align="center">
 
 <a href="https://github.com/qaiserabbasspk">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge"/>
 </a>
 
 <a href="mailto:compilerjit@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
+<a href="https://www.upwork.com/freelancers/~01d327633500ac357f">
+<img src="https://img.shields.io/badge/💼_Upwork-6FDA44?style=for-the-badge"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.fiverr.com/syntaxlimited">
+<img src="https://img.shields.io/badge/🚀_Fiverr-1DBF73?style=for-the-badge"/>
 </a>
 
-<a href="https://www.fiverr.com/syntaxlimited">Fiverr
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Fiverr"/>
-</a>
-
-<a href="https://www.upwork.com/freelancers/~01d327633500ac357f">Upwork
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Upwork"/>
+<a href="https://www.youtube.com/@FoxSeries">
+<img src="https://img.shields.io/badge/🎥_YouTube-FF0000?style=for-the-badge"/>
 </a>
 
 </p>
