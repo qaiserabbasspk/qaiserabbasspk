@@ -38,40 +38,25 @@
 
 # 💫 About Me
 
-```php
-class QaiserAbbass
-{
-    public string $role = "Senior Full Stack Software Engineer";
 
-    public array $skills = [
-        "Laravel",
-        "PHP",
-        "Vue.js",
-        "React",
-        "Node.js",
-        "REST API",
-        "AI Automation",
-        "LLM",
-        "MySQL",
-        "Docker",
-        "AWS"
-    ];
+🚀 **Full Stack Software Engineer** | ❤️ **Laravel Expert** | 🤖 **AI Developer** | ✈️ **Travel Technology Specialist**
 
-    public array $specialization = [
-        "Travel Booking Systems",
-        "Hotel Reservation Platforms",
-        "Payment Gateway Integration",
-        "CRM Development",
-        "Enterprise Software",
-        "AI Agents"
-    ];
+Hello! I'm **Qaiser Abbass**, a software engineer dedicated to building modern, scalable, and enterprise-grade digital products.
 
-    public string $currentlyLearning = "Advanced AI Agents & Multi-Agent Systems";
+Over the years, I've worked on a wide range of solutions, including:
 
-    public string $status = "Available for exciting opportunities";
-}
-```
+- ✈️ Flight Booking Engines
+- 🏨 Hotel Reservation Platforms
+- 🤖 AI Automation & LLM Applications
+- 💳 Digital Wallet & Payment Systems
+- 📊 CRM & ERP Solutions
+- ☁️ Cloud-Based Enterprise Applications
 
+My primary technology stack includes **Laravel**, **PHP**, **Vue.js**, **React**, **MySQL**, **Docker**, **AWS**, and modern RESTful API development.
+
+I enjoy solving challenging problems, optimizing application performance, and creating software that is secure, maintainable, and user-friendly.
+
+> **"Great software is built with clean architecture, thoughtful design, and a passion for continuous learning."**
 ---
 
 # 🚀 What I Do
