@@ -39,18 +39,9 @@
 # 💫 About Me
 
 
-🚀 **Full Stack Software Engineer** | ❤️ **Laravel Expert** | 🤖 **AI Developer** | ✈️ **Travel Technology Specialist**
+🚀 **Full Stack Software Engineer** | ❤️ **Laravel Expert** | 🤖 **AI Developer** | ✈️ **Travel Technology Specialist** ❤️ **Mobile app Specialist**
 
 Hello! I'm **Qaiser Abbass**, a software engineer dedicated to building modern, scalable, and enterprise-grade digital products.
-
-Over the years, I've worked on a wide range of solutions, including:
-
-- ✈️ Flight Booking Engines
-- 🏨 Hotel Reservation Platforms
-- 🤖 AI Automation & LLM Applications
-- 💳 Digital Wallet & Payment Systems
-- 📊 CRM & ERP Solutions
-- ☁️ Cloud-Based Enterprise Applications
 
 My primary technology stack includes **Laravel**, **PHP**, **Vue.js**, **React**, **MySQL**, **Docker**, **AWS**, and modern RESTful API development.
 
