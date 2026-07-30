@@ -168,7 +168,7 @@ I enjoy solving challenging problems, optimizing application performance, and cr
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:compilerjit@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -178,6 +178,14 @@ I enjoy solving challenging problems, optimizing application performance, and cr
 
 <a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.fiverr.com/syntaxlimited">Fiverr
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Fiverr"/>
+</a>
+
+<a href="https://www.upwork.com/freelancers/~01d327633500ac357f">Upwork
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Upwork"/>
 </a>
 
 </p>
