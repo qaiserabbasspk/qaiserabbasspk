@@ -180,7 +180,7 @@
 </a>
 
 <a href="mailto:compilerjit@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <a href="https://www.upwork.com/freelancers/~01d327633500ac357f">
@@ -191,10 +191,9 @@
 <img src="https://img.shields.io/badge/🚀_Fiverr-1DBF73?style=for-the-badge"/>
 </a>
 
-<a href="https://www.youtube.com/@FoxSeries">
+<a href="https://www.youtube.com/@datatechlimited">
 <img src="https://img.shields.io/badge/🎥_YouTube-FF0000?style=for-the-badge"/>
 </a>
-
 </p>
 
 ---
