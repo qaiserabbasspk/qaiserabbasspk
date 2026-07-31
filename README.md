@@ -179,10 +179,9 @@
 <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge"/>
 </a>
 
-<a href="mailto:compilerjit@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=compilerjit@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
+</a> 
 <a href="https://www.upwork.com/freelancers/~01d327633500ac357f">
 <img src="https://img.shields.io/badge/💼_Upwork-6FDA44?style=for-the-badge"/>
 </a>
